@@ -1,0 +1,26 @@
+{
+  "LICENSE-KEY-1": {
+    "name": "John Doe",
+    "device_id": "A1B2C3D4E5F6G7H8I9J0K1L2M3N4O5P6",
+    "created_date": "2024-01-15T10:30:00Z",
+    "expiry_date": "2025-01-15T10:30:00Z"
+  },
+  "LICENSE-KEY-2": {
+    "name": "Jane Smith", 
+    "device_id": "F1E2D3C4B5A6G7H8I9J0K1L2M3N4O5P6",
+    "created_date": "2024-02-20T15:45:00Z",
+    "expiry_date": "Lifetime"
+  },
+  "SAMPLE-LIFETIME-KEY": {
+    "name": "Example User",
+    "device_id": "SAMPLE1234567890ABCDEF1234567890AB",
+    "created_date": "2024-10-24T12:00:00Z",
+    "expiry_date": "Lifetime"
+  },
+  "SAMPLE-EXPIRED-KEY": {
+    "name": "Expired User",
+    "device_id": "EXPIRED1234567890ABCDEF1234567890",
+    "created_date": "2024-01-01T00:00:00Z",
+    "expiry_date": "2024-06-01T00:00:00Z"
+  }
+}
